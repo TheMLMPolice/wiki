@@ -3,6 +3,7 @@ output: .retype
 url: https://themlmpolice.github.io/wiki/ # Add your website here
 branding:
   title: TheMLMPolice
+  logo: /Logo.webp
   label: Wiki
 poweredByRetype: true # Set to false to remove the Powered by Retype branding.
                       # A Retype Pro license is required.
@@ -12,3 +13,6 @@ links:
     link: https://retype.com/guides/getting-started/
 footer:
   copyright: "&copy; Copyright . All rights reserved."
+  
+  editor:
+    enabled: true
